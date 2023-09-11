@@ -1,0 +1,32 @@
+.range {
+    width: 400px;
+    font-size: 14pt;
+}
+check {
+    width: 10px;
+    align-items: center;
+}
+.choose {
+    border-collapse: collapse;
+}
+.like {
+    text-align: center;
+    border: 1px solid #000000;
+    padding: 5px;
+}
+.like2 {
+    text-align: center;
+    border: 1px solid #000000;
+    padding: 5px;
+    font-weight: bold;
+}
+.tag {
+    font-weight: bold;
+    margin-bottom: auto;
+}
+.tb2:nth-child(odd) {
+    background-color: lightgrey;
+}
+.level {
+    border: 1px solid #000000;
+}
